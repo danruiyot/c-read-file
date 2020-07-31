@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IDv1zx5/rcAoaO+/HO/bgB0+ZZXA3lZQt2ayjvIBRbTBOSA1Sdjn9vexIOML1lEIJJai/bS3csvhf9G+Zy0OA==",
+  "success": true,
+  "projectFilePath": "/home/ruiyot/Dev-env/dot-net/gui/yusuf/yusuf.Gtk/yusuf.Gtk.csproj",
+  "expectedPackageFiles": [
+    "/home/ruiyot/.nuget/packages/atksharp/3.22.25.74/atksharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/cairosharp/3.22.25.74/cairosharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/eto.forms/2.5.2/eto.forms.2.5.2.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/eto.platform.gtk/2.5.2/eto.platform.gtk.2.5.2.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/eto.serialization.xaml/2.5.2/eto.serialization.xaml.2.5.2.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/gdksharp/3.22.25.74/gdksharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/giosharp/3.22.25.74/giosharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/glibsharp/3.22.25.74/glibsharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/gtksharp/3.22.25.74/gtksharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/pangosharp/3.22.25.74/pangosharp.3.22.25.74.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/portable.xaml/0.24.0/portable.xaml.0.24.0.nupkg.sha512",
+    "/home/ruiyot/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
