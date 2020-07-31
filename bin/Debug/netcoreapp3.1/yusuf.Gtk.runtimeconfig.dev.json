@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/ruiyot/.dotnet/store/|arch|/|tfm|",
-      "/home/ruiyot/.nuget/packages"
-    ]
-  }
-}
